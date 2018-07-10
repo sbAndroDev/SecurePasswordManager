@@ -1,0 +1,2 @@
+# SecurePasswordManager
+A simple password manager with higher security . A random string is generated to encrypt the data before storing in database . For encryption AES encryption is used which one of the best encryption algorithm and this is still not cracked . And the key is encrypted using the password you set to the app . But the password you use to lock or unlock the app is never stored anywhere . And this makes the app more secure and safe .
